@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:0 type="stream" channelId="40" name="caracol (ʜᴅ)" group="locales" logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kienyke.com%2Fentretenimiento%2Fcambios-dia-a-dia-caracol-television&psig=AOvVaw2WHjDmA9ZKll9oCF6sr9HZ&ust=1637714373907000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjdjtGfrfQCFQAAAAAdAAAAABAD", CARTOON NETWORK (ʜᴅ)
+http://192.168.1.2/dash/live.mpd
